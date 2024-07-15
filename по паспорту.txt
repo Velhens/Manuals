@@ -1,0 +1,10 @@
+Поиск по паспорту гражданина России
+
+1. fms.gov.ru (http://services.fms.gov.ru/info-service.htm?sid=2000) — проверка действительности паспортов гражданина РФ
+2. fssp.online — задолженности, поиск бесплатный
+3. service.nalog.ru (https://service.nalog.ru/inn.do) — найдет ИНН, нужно знать полное ФИО и дату рождения
+
+
+Восстановление доступа
+
+1. esia.gosuslugi.ru (https://esia.gosuslugi.ru/recovery/) — даст часть адреса почты и номера телефона
